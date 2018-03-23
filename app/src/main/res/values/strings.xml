@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="edit_input_unformatted_text">Input unformatted text</string>
+    <string name="but_format_text">Format Text</string>
+</resources>
